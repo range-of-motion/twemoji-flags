@@ -1,0 +1,18 @@
+.twf {
+    display: inline-block;
+    width: 1.25em;
+    height: 1.25em;
+    vertical-align: -.25em;
+}
+
+.twf-nl {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1f3-1f1f1.svg');
+}
+
+.twf-lt {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f9.svg');
+}
+
+.twf-de {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ea.svg');
+}
