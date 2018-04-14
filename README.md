@@ -9,7 +9,7 @@ Copy `twemoji-flags.css` over to your project. Include it in the `<head>`, and y
 ## How to Use
 
 ```
-twf twf-nl
+<i class="twf twf-nl"></i>
 ```
 
 That's it. Want a different flag? Alter the two-letter country code.
