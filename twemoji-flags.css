@@ -5,14 +5,78 @@
     vertical-align: -.25em;
 }
 
-.twf-nl {
-    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1f3-1f1f1.svg');
+.twf-au {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1e6-1f1fa.svg');
+}
+
+.twf-be {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ea.svg');
+}
+
+.twf-br {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1e7-1f1f7.svg');
+}
+
+.twf-ca {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1e8-1f1e6.svg');
+}
+
+.twf-ch {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1e8-1f1ed.svg');
+}
+
+.twf-cn {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f3.svg');
+}
+
+.twf-de {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ea.svg');
+}
+
+.twf-dk {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1e9-1f1f0.svg');
+}
+
+.twf-fi {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1eb-1f1ee.svg');
+}
+
+.twf-fr {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1eb-1f1f7.svg');
+}
+
+.twf-gr {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f7.svg');
+}
+
+.twf-hu {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1ed-1f1fa.svg');
+}
+
+.twf-it {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1ee-1f1f9.svg');
+}
+
+.twf-jp {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1ef-1f1f5.svg');
 }
 
 .twf-lt {
     background-image: url('https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f9.svg');
 }
 
-.twf-de {
-    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ea.svg');
+.twf-mx {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fd.svg');
+}
+
+.twf-my {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fe.svg');
+}
+
+.twf-nl {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1f3-1f1f1.svg');
+}
+
+.twf-no {
+    background-image: url('https://twemoji.maxcdn.com/2/svg/1f1f3-1f1f4.svg');
 }
