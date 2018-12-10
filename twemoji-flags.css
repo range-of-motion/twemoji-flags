@@ -5,6 +5,12 @@
     vertical-align: -.25em;
 }
 
+.twf-sm {
+    width: 1em;
+    height: 1em;
+    vertical-align: -.1em;
+}
+
 .twf-au {
     background-image: url('https://twemoji.maxcdn.com/2/svg/1f1e6-1f1fa.svg');
 }
