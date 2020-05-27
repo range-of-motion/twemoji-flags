@@ -1,15 +1,23 @@
 # Twemoji Flags
 
-Comes in a dead-simple stylesheet. Ready to use in your next web-project.
+FontAwesome meets Twemoji, but for flags.
 
-## How to Install
+## Requirements
 
-Copy `twemoji-flags.css` over to your project. Include it in the `<head>`, and you're golden.
+*The requirements stated below only apply if you want to build the CSS from scratch. In 99% of the cases, you will not need this, and therefor you don't need any of these requirements.*
 
-## How to Use
+* PHP
+* Composer
 
-```
-<i class="twf twf-nl"></i>
-```
+## Installation
 
-That's it. Want a different flag? Alter the two-letter country code.
+* Download `twemoji-flags.css` from this repository, and put it in a publicly-accessible directory
+* Include said CSS file in the `<head>` of your HTML
+
+And you're done.
+
+## Usage
+
+`<i class="twf twf-nl"></i>`
+
+*Swap out `nl` for any other 2-letter country code.*
